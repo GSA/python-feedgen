@@ -36,7 +36,6 @@ setup(name='feedgen',
         'Topic :: Text Processing :: Markup',
         'Topic :: Text Processing :: Markup :: XML'
         ],
-      test_suite="tests",
       long_description='''\
 Feedgenerator
 =============
